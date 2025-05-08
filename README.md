@@ -78,6 +78,6 @@ About: Displays information about the app and its developer.
 This project utilizes functional components and React hooks such as `useState` and `useEffect` to manage state and side effects efficiently.
 
 >Developer
-This project is developed and maintained by Hardik Rana, a third-year Computer Engineering student, NCC cadet.
+This project is developed and maintained by Hardik Rana, a third-year Computer Engineering student.
 
 
